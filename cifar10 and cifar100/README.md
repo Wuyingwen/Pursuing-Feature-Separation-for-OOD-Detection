@@ -53,7 +53,7 @@ where `model_path` is the path to the well-trained model.
 The key results on CIFAR benchmarks are listed in the following table.
  |  |  CIFAR10 | CIFAR10 | CIFAR100 | CIFAR100
  |:-|:---|:---|:---|:---|
- |  | FPR95$\downarrow$ | AUROC$\uparrow$| FPR95$\downarrow$ | AUROC	$\uparrow$
+ |  | FPR95 $\downarrow$ | AUROC $\uparrow$| FPR95 $\downarrow$ | AUROC	$\uparrow$
 OE | 3.36 | **99.02** | 37.77 | 92.21 
 Energy-OE | 2.99 | 98.79 | 42.34 | 91.65 
 DAL | 2.69 | 98.86 | 31.47 | 92.82 
